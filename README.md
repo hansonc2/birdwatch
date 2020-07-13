@@ -4,6 +4,7 @@
 
 ## To Do:
 - Assemble Training data ✅
-- Troubleshoot multiclass classification
-- Video feed support
+- clean training data
+- Troubleshoot multiclass classification ✅
+- Support Live Video
 - Testing
